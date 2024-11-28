@@ -1,3 +1,5 @@
+[![setup-test-lint.yml](https://github.com/Oxana-Shu/hexlet-ci-app/actions/workflows/setup-test-lint.yml/badge.svg)](https://github.com/Oxana-Shu/hexlet-ci-app/actions/workflows/setup-test-lint.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
