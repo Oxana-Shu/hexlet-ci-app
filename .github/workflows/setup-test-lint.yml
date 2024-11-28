@@ -10,6 +10,6 @@ jobs:
         with:
           node-version: '18.x'
           cache: 'npm' # ускоряет повторные сборки
-      - run: npm make setup
-      - run: npm make test
-      - run: npm make lint
+      - run: make setup
+      - run: make test
+      - run: make lint
